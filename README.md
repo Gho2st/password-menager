@@ -1,2 +1,2 @@
-# password-menager
+# password-manager
 python app & tkinter
